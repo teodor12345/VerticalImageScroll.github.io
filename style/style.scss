@@ -1,8 +1,15 @@
+
+*{
+  box-sizing: border-box;
+}
+
+
 body {
     font-family: Termina, sans-serif;
     color: #111;
     background: #eee;
     overflow-x: hidden;
+    height: 100vh;
     cursor: pointer;
   }
   
